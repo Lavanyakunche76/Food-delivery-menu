@@ -30,16 +30,21 @@ This repository hosts the source code for BITE FLOW, a dynamic food ordering web
 
 ## Screenshots
 
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
+![alt text](image-5.png)
 - Hero Section
 
-![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
+![alt text](image-2.png)
 - Products Section
 
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
+![alt text](image-4.png)
 - Cart Page
 
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
+
+- Admin Login Popup
+![alt text](image.png)
+
+
+![alt text](image-3.png)
 - Login Popup
 
 ## Run Locally
