@@ -1,12 +1,13 @@
-# TOMATO - Food Ordering Website
+# Food Ordering Website
 
-This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
+This repository hosts the source code for BITE FLOW, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
 ## Demo
 
-- User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
+##  Live Demo
 
+- 🌐 [User Panel](https://food-frontend-hd4u.onrender.com)
+- 🔐 [Admin Panel](https://food-frontend-hd4u.onrender.com/admin/login)
 ## Features
 
 - User Panel
@@ -46,7 +47,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/Lavanyakunche76/Food-delivery-menu.git
 ```
 Go to the project directory
 
