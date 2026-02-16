@@ -6,7 +6,7 @@ This repository hosts the source code for BITE FLOW, a dynamic food ordering web
 
 ##  Live Demo
 
-- 🌐 [User Panel](https://food-frontend-hd4u.onrender.com)
+- 🌐 [User Panel[](https://food-frontend-hd4u.onrender.com)](https://food-frontend-ijfb.onrender.com)
 - 🔐 [Admin Panel](https://food-frontend-hd4u.onrender.com/admin/login)
 ## Features
 
