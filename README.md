@@ -2,7 +2,6 @@
 
 This repository hosts the source code for BITE FLOW, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
-## Demo
 
 ##  Live Demo
 
