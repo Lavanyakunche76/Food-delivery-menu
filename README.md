@@ -28,25 +28,6 @@ This repository hosts the source code for BITE FLOW, a dynamic food ordering web
 - Role-Based Identification
 - Beautiful Alerts
 
-## Screenshots
-
-![alt text](image-5.png)
-- Hero Section
-
-![alt text](image-2.png)
-- Products Section
-
-![alt text](image-4.png)
-- Cart Page
-
-
-- Admin Login Popup
-![alt text](image.png)
-
-
-![alt text](image-3.png)
-- Login Popup
-
 ## Run Locally
 
 Clone the project
